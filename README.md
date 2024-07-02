@@ -24,15 +24,15 @@ papayAI reads `features.txt` as a unique item per line, with three characteristc
 
 # Classifying process example:
 
-1000 0 7
-500 1 9
+> 1000 0 7\
+> 500 1 9
 
 is then read by papayAI as:
 
-weighs 1000g, is hairy and brown
-weighs 500g, is smooth and green
+> weighs 1000g, is hairy and brown\
+> weighs 500g, is smooth and green
 
 and is classified as:
 
-a VERY BIG kiwi!
-a pretty small watermelon :)
+> a VERY BIG kiwi!\
+> a pretty small watermelon :)
