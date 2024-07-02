@@ -198,7 +198,3 @@ while True:
 
     elif val == 5:
         break
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
